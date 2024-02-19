@@ -1,0 +1,11 @@
+syntax = "proto3";
+package pt.ulisboa.tecnico.sequencer.contract;
+
+message GetSeqNumberRequest {}
+message GetSeqNumberResponse {
+  int32 seqNumber = 1;
+}
+
+service Sequencer {
+  rpc getSeqNumber(GetSeqNumberRequest) returns (GetSeqNumberResponse);
+}
