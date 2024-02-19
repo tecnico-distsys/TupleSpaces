@@ -167,10 +167,9 @@ Por exemplo, o servidor A pode ser lançada da seguinte forma (**$** representa 
 
 O servidor de nomes permite aos servidores registarem o seu endereço para ser conhecido por outros que estejam presentes no sistema.
 
-O servidor de nomes deve ser lançado sem argumentos e ficará à escuta no porto `5001`, podendo ser lançado a partir da pasta `NamingServer` da seguinte forma:
+O servidor de nomes deve ser lançado sem argumentos e ficará à escuta no porto `5001`, podendo ser lançado a partir da pasta `NameServer` da seguinte forma:
 
-`$ mvn exec:java`
-
+`$ python server.py`
 
 O porto 5001 é bem conhecido pelos clientes e servidores.
 Um servidor, quando se regista no servidor de nomes, indica o nome do serviço (neste caso *TupleSpace*), o seu endereço e um qualificador, que pode assumir os valores 'A', 'B' ou 'C'. 
@@ -241,7 +240,7 @@ construídos nas diferentes etapas do projeto, especialmente nas mais avançadas
 ### Tecnologias
 
 Todos os componentes do projeto têm de ser implementados na linguagem de
-programação [Java](https://docs.oracle.com/javase/specs/).
+programação [Java](https://docs.oracle.com/javase/specs/) (com a exceção do servidor de nomes, em Python).
 A ferramenta de construção a usar, obrigatoriamente, é o [Maven](https://maven.apache.org/).
 
 A invocação remota de serviços deve ser suportada por serviços [gRPC](https://grpc.io/). Os serviços implementados devem obedecer aos *protocol buffers* fornecidos no código base disponível no repositório github do projeto.
