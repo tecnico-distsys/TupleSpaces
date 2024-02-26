@@ -388,7 +388,7 @@ A avaliação da qualidade engloba os seguintes aspetos:
 
 - Código legível (incluindo comentários relevantes);
 
-- [Tratamento de exceções adequado](https://tecnico-distsys.github.io/04-rpc-error-test/index.html);
+- [Tratamento de exceções adequado]([https://tecnico-distsys.github.io/04-rpc-error-test/index.html](https://tecnico-distsys.github.io/04-rpc-error/grpc-error/index.html));
 
 - [Sincronização correta](https://tecnico-distsys.github.io/02-tools-sockets/java-synch/index.html);
 
