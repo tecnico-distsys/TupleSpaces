@@ -1,0 +1,505 @@
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+
+> OK
+[<vaga,sd,turno1>, <vaga,sd,turno2>, <vaga,sd,turno3>, <vaga,sd,turno4>, <vaga,sd,turno5>, <vaga,sd,turno6>, <vaga,sd,turno7>, <vaga,sd,turno8>, <vaga,sd,turno9>, <vaga,sd,turno10>, <vaga,sd,turno11>, <vaga,sd,turno12>, <vaga,sd,turno13>, <vaga,sd,turno14>, <vaga,sd,turno15>, <vaga,sd,turno16>, <vaga,sd,turno17>, <vaga,sd,turno18>, <vaga,sd,turno19>, <vaga,sd,turno20>, <vaga,sd,turno21>, <vaga,sd,turno22>, <vaga,sd,turno23>, <vaga,sd,turno24>, <vaga,sd,turno25>, <vaga,sd,turno26>, <vaga,sd,turno27>, <vaga,sd,turno28>, <vaga,sd,turno29>, <vaga,sd,turno30>, <vaga,sd,turno31>, <vaga,sd,turno32>, <vaga,sd,turno33>, <vaga,sd,turno34>, <vaga,sd,turno35>, <vaga,sd,turno36>, <vaga,sd,turno37>, <vaga,sd,turno38>, <vaga,sd,turno39>, <vaga,sd,turno40>, <vaga,sd,turno41>, <vaga,sd,turno42>, <vaga,sd,turno43>, <vaga,sd,turno44>, <vaga,sd,turno45>, <vaga,sd,turno46>, <vaga,sd,turno47>, <vaga,sd,turno48>, <vaga,sd,turno49>, <vaga,sd,turno50>, <vaga,sd,turno51>, <vaga,sd,turno52>, <vaga,sd,turno53>, <vaga,sd,turno54>, <vaga,sd,turno55>, <vaga,sd,turno56>, <vaga,sd,turno57>, <vaga,sd,turno58>, <vaga,sd,turno59>, <vaga,sd,turno60>, <vaga,sd,turno61>, <vaga,sd,turno62>, <vaga,sd,turno63>, <vaga,sd,turno64>, <vaga,sd,turno65>, <vaga,sd,turno66>, <vaga,sd,turno67>, <vaga,sd,turno68>, <vaga,sd,turno69>, <vaga,sd,turno70>, <vaga,sd,turno71>, <vaga,sd,turno72>, <vaga,sd,turno73>, <vaga,sd,turno74>, <vaga,sd,turno75>, <vaga,sd,turno76>, <vaga,sd,turno77>, <vaga,sd,turno78>, <vaga,sd,turno79>, <vaga,sd,turno80>, <vaga,sd,turno81>, <vaga,sd,turno82>, <vaga,sd,turno83>, <vaga,sd,turno84>, <vaga,sd,turno85>, <vaga,sd,turno86>, <vaga,sd,turno87>, <vaga,sd,turno88>, <vaga,sd,turno89>, <vaga,sd,turno90>, <vaga,sd,turno91>, <vaga,sd,turno92>, <vaga,sd,turno93>, <vaga,sd,turno94>, <vaga,sd,turno95>, <vaga,sd,turno96>, <vaga,sd,turno97>, <vaga,sd,turno98>, <vaga,sd,turno99>]
+
+> OK
+<vaga,sd,turno1>
+
+> OK
+<vaga,sd,turno3>
+
+> OK
+<vaga,sd,turno5>
+
+> OK
+<vaga,sd,turno7>
+
+> OK
+<vaga,sd,turno9>
+
+> OK
+<vaga,sd,turno11>
+
+> OK
+<vaga,sd,turno13>
+
+> OK
+<vaga,sd,turno15>
+
+> OK
+<vaga,sd,turno17>
+
+> OK
+<vaga,sd,turno19>
+
+> OK
+<vaga,sd,turno21>
+
+> OK
+<vaga,sd,turno23>
+
+> OK
+<vaga,sd,turno25>
+
+> OK
+<vaga,sd,turno27>
+
+> OK
+<vaga,sd,turno29>
+
+> OK
+<vaga,sd,turno31>
+
+> OK
+<vaga,sd,turno33>
+
+> OK
+<vaga,sd,turno35>
+
+> OK
+<vaga,sd,turno37>
+
+> OK
+<vaga,sd,turno39>
+
+> OK
+<vaga,sd,turno41>
+
+> OK
+<vaga,sd,turno43>
+
+> OK
+<vaga,sd,turno45>
+
+> OK
+<vaga,sd,turno47>
+
+> OK
+<vaga,sd,turno49>
+
+> OK
+<vaga,sd,turno51>
+
+> OK
+<vaga,sd,turno53>
+
+> OK
+<vaga,sd,turno55>
+
+> OK
+<vaga,sd,turno57>
+
+> OK
+<vaga,sd,turno59>
+
+> OK
+<vaga,sd,turno61>
+
+> OK
+<vaga,sd,turno63>
+
+> OK
+<vaga,sd,turno65>
+
+> OK
+<vaga,sd,turno67>
+
+> OK
+<vaga,sd,turno69>
+
+> OK
+<vaga,sd,turno71>
+
+> OK
+<vaga,sd,turno73>
+
+> OK
+<vaga,sd,turno75>
+
+> OK
+<vaga,sd,turno77>
+
+> OK
+<vaga,sd,turno79>
+
+> OK
+<vaga,sd,turno81>
+
+> OK
+<vaga,sd,turno83>
+
+> OK
+<vaga,sd,turno85>
+
+> OK
+<vaga,sd,turno87>
+
+> OK
+<vaga,sd,turno89>
+
+> OK
+<vaga,sd,turno91>
+
+> OK
+<vaga,sd,turno93>
+
+> OK
+<vaga,sd,turno95>
+
+> OK
+<vaga,sd,turno97>
+
+> OK
+<vaga,sd,turno99>
+
+> OK
+[<vaga,sd,turno2>, <vaga,sd,turno4>, <vaga,sd,turno6>, <vaga,sd,turno8>, <vaga,sd,turno10>, <vaga,sd,turno12>, <vaga,sd,turno14>, <vaga,sd,turno16>, <vaga,sd,turno18>, <vaga,sd,turno20>, <vaga,sd,turno22>, <vaga,sd,turno24>, <vaga,sd,turno26>, <vaga,sd,turno28>, <vaga,sd,turno30>, <vaga,sd,turno32>, <vaga,sd,turno34>, <vaga,sd,turno36>, <vaga,sd,turno38>, <vaga,sd,turno40>, <vaga,sd,turno42>, <vaga,sd,turno44>, <vaga,sd,turno46>, <vaga,sd,turno48>, <vaga,sd,turno50>, <vaga,sd,turno52>, <vaga,sd,turno54>, <vaga,sd,turno56>, <vaga,sd,turno58>, <vaga,sd,turno60>, <vaga,sd,turno62>, <vaga,sd,turno64>, <vaga,sd,turno66>, <vaga,sd,turno68>, <vaga,sd,turno70>, <vaga,sd,turno72>, <vaga,sd,turno74>, <vaga,sd,turno76>, <vaga,sd,turno78>, <vaga,sd,turno80>, <vaga,sd,turno82>, <vaga,sd,turno84>, <vaga,sd,turno86>, <vaga,sd,turno88>, <vaga,sd,turno90>, <vaga,sd,turno92>, <vaga,sd,turno94>, <vaga,sd,turno96>, <vaga,sd,turno98>]
+
+> OK
+<vaga,sd,turno2>
+
+> OK
+<vaga,sd,turno4>
+
+> OK
+<vaga,sd,turno6>
+
+> OK
+<vaga,sd,turno8>
+
+> OK
+<vaga,sd,turno10>
+
+> OK
+<vaga,sd,turno12>
+
+> OK
+<vaga,sd,turno14>
+
+> OK
+<vaga,sd,turno16>
+
+> OK
+<vaga,sd,turno18>
+
+> OK
+<vaga,sd,turno20>
+
+> OK
+<vaga,sd,turno22>
+
+> OK
+<vaga,sd,turno24>
+
+> OK
+<vaga,sd,turno26>
+
+> OK
+<vaga,sd,turno28>
+
+> OK
+<vaga,sd,turno30>
+
+> OK
+<vaga,sd,turno32>
+
+> OK
+<vaga,sd,turno34>
+
+> OK
+<vaga,sd,turno36>
+
+> OK
+<vaga,sd,turno38>
+
+> OK
+<vaga,sd,turno40>
+
+> OK
+<vaga,sd,turno42>
+
+> OK
+<vaga,sd,turno44>
+
+> OK
+<vaga,sd,turno46>
+
+> OK
+<vaga,sd,turno48>
+
+> OK
+<vaga,sd,turno50>
+
+> OK
+<vaga,sd,turno52>
+
+> OK
+<vaga,sd,turno54>
+
+> OK
+<vaga,sd,turno56>
+
+> OK
+<vaga,sd,turno58>
+
+> OK
+<vaga,sd,turno60>
+
+> OK
+<vaga,sd,turno62>
+
+> OK
+<vaga,sd,turno64>
+
+> OK
+<vaga,sd,turno66>
+
+> OK
+<vaga,sd,turno68>
+
+> OK
+<vaga,sd,turno70>
+
+> OK
+<vaga,sd,turno72>
+
+> OK
+<vaga,sd,turno74>
+
+> OK
+<vaga,sd,turno76>
+
+> OK
+<vaga,sd,turno78>
+
+> OK
+<vaga,sd,turno80>
+
+> OK
+<vaga,sd,turno82>
+
+> OK
+<vaga,sd,turno84>
+
+> OK
+<vaga,sd,turno86>
+
+> OK
+<vaga,sd,turno88>
+
+> OK
+<vaga,sd,turno90>
+
+> OK
+<vaga,sd,turno92>
+
+> OK
+<vaga,sd,turno94>
+
+> OK
+<vaga,sd,turno96>
+
+> OK
+<vaga,sd,turno98>
+
+> OK
+[]
+
+> 

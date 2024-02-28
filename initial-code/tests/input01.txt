@@ -1,0 +1,5 @@
+put <vaga,sd,turno1>
+getTupleSpacesState A
+take <vaga,sd,turno1>
+getTupleSpacesState A
+exit
