@@ -17,7 +17,7 @@ cd $CLI_PATH
 for i in {1..5}
 do
     TEST=$(printf "%02d" $i)
-    mvn compile exec:java < ${TESTS_FOLDER}/input$TEST.txt > ${TESTS_OUTPUT}/out$TEST.txt
+    mvn --quiet compile exec:java < ${TESTS_FOLDER}/input$TEST.txt > ${TESTS_OUTPUT}/out$TEST.txt
 
     DIFF=$(diff ${TESTS_OUTPUT}/out$TEST.txt ${TESTS_OUT_EXPECTED}/out$TEST.txt) 
     if [ "$DIFF" != "" ] 
