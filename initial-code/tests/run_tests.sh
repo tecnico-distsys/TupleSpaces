@@ -14,10 +14,10 @@ rm -rf $TESTS_OUTPUT
 mkdir -p $TESTS_OUTPUT
 
 cd $CLI_PATH
-for i in {1..5}
+for i in {1..6}
 do
     TEST=$(printf "%02d" $i)
-    mvn --quiet compile exec:java < ${TESTS_FOLDER}/input$TEST.txt > ${TESTS_OUTPUT}/out$TEST.txt
+    time mvn --quiet compile exec:java < ${TESTS_FOLDER}/input$TEST.txt > ${TESTS_OUTPUT}/out$TEST.txt
 
     DIFF=$(diff ${TESTS_OUTPUT}/out$TEST.txt ${TESTS_OUT_EXPECTED}/out$TEST.txt) 
     if [ "$DIFF" != "" ] 

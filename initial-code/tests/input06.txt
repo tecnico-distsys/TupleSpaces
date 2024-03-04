@@ -1,0 +1,16 @@
+setdelay A 10
+put <t>
+read <t>
+setdelay A 0
+take <t>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit
+
+# # #
+Expected execution time: approx. 10 sec.
+'setdelay' should delay 'put' by ~10 sec 
+(since client needs to wait for all servers' responses), 
+but should not delay 'read' 
+(since the client doesn't need to wait for A).
