@@ -3,6 +3,8 @@ package pt.ulisboa.tecnico.tuplespaces.client;
 import pt.ulisboa.tecnico.tuplespaces.client.grpc.ClientService;
 
 public class ClientMain {
+
+    static final int numServers = 3;
     public static void main(String[] args) {
 
         System.out.println(ClientMain.class.getSimpleName());
@@ -24,7 +26,7 @@ public class ClientMain {
         final String host = args[0];
         final String port = args[1];
 
-        CommandProcessor parser = new CommandProcessor(new ClientService());
+        CommandProcessor parser = new CommandProcessor(new ClientService(ClientMain.numServers));
         parser.parseInput();
 
     }
