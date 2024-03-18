@@ -16,6 +16,7 @@
 		<module>Contract</module>
 		<module>Client</module>
 		<module>ServerR1</module>
+		<module>Sequencer</module>
 
 		<!-- These should only be used in phases 2 and 3
 		<module>ServerR2</module>
