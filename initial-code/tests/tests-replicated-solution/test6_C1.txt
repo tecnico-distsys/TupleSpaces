@@ -1,0 +1,13 @@
+put <t1>
+put <t2>
+setdelay A 5
+setdelay B 5
+setdelay C 5
+take <t1>
+exit
+
+//After the 2 initial 'put', C1's take should get seq_num=3, while C2's take should get seq_num=4
+//Since C1's 'take' will arrive late to every server, C2's take will stay in the pending queue until 
+//it finally executes.
+//Expected: after approx. 5 sec, both clients succeed in taking the desired tuple; the final state 
+//at all servers is empty (printed by C2)

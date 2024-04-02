@@ -1,0 +1,11 @@
+take <(.*)>
+take <(.*)>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit
+
+//Both 'take's of C1 will not find any matching tuple when invoked, so they will be placed in a
+//pending takes queue. Some seconds later, C2 puts the missing tuples (first <t1>, then <t2>), 
+//which will unblock the pending takes of C1. 
+//At the end of the run, C1 prints the state of every server, which should be empty.

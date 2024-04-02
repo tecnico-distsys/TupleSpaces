@@ -1,0 +1,10 @@
+take <t>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+take <(.*)>
+take <(.*)>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit

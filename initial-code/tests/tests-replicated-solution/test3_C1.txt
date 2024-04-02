@@ -1,0 +1,5 @@
+take <t>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit

@@ -1,0 +1,13 @@
+put <t>
+take <t>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+put <t1>
+put <t2>
+take <(.*)>
+take <(.*)>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit

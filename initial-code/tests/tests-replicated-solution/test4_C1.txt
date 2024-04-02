@@ -1,0 +1,9 @@
+put <t1>
+put <t2>
+sleep 3
+setdelay A 3
+take <(.*)>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit

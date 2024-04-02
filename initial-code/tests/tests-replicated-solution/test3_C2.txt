@@ -1,0 +1,3 @@
+setdelay A 3
+put <t>
+exit

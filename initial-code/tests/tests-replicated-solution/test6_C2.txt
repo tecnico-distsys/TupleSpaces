@@ -1,0 +1,6 @@
+sleep 3
+take <t2>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit

@@ -1,0 +1,9 @@
+take <t2>
+take <t1>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
+exit
+
+//Similar to test7, but now the pending 'take's can only be served in the opposite order of the
+// order by which the 'put's are invoked by C2.
