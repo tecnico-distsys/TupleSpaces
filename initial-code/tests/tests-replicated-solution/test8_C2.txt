@@ -1,4 +1,7 @@
+sleep 3 
+take <t1>
 sleep 3
-put <t1>
-put <t2>
+getTupleSpacesState A
+getTupleSpacesState B
+getTupleSpacesState C
 exit

@@ -1,0 +1,4 @@
+sleep 6
+put <t1>
+put <t2>
+exit
